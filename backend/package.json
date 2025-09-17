@@ -2,9 +2,9 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "node.js",
   "scripts": {
-    "run":"node node.js",
+    "start":"node node.js",
     "test":"node test.js"
   },
   "keywords": [],
